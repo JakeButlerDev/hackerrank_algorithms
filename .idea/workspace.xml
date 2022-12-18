@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e340f710-a538-4d54-9702-c0a0dc8ba90f" name="Changes" comment="Completed two exercises">
-      <change afterPath="$PROJECT_DIR$/src/birthdayCandles/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miniMaxSum/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e340f710-a538-4d54-9702-c0a0dc8ba90f" name="Changes" comment="Completed two exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671150229545</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed two exercises">
+      <created>1671249149903</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671249149903</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
